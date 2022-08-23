@@ -1,0 +1,17 @@
+{
+    "name": "paria website ",
+    "short_name": "paria",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [{
+            "src": "img/img.jpg",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+
+    ]
+}
